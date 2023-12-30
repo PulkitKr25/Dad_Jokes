@@ -1,0 +1,16 @@
+body{
+    width:250px;
+    height:250px;
+    display: flex;
+    background-color:palegoldenrod;
+    font-style: italic;
+    justify-content: center;
+}
+
+p{
+    display: inner-flex;
+    font-size: 22px;
+    color: orangered;
+    border-radius: 6px;
+    margin:auto 10px;
+}
